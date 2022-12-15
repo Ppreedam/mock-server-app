@@ -66,5 +66,32 @@
                 "id":1,
                 "tweets":"nyc pics"
             }
+    ],
+    "Registration":[
+      {
+        "id":1,
+        "name":"shankar",
+        "age":22,
+        "country":"India",
+        "gender":"men",
+        "profession":"student"
+      },
+      {
+        "id":2,
+        "name":"shankar1",
+        "age":28,
+        "country":"China",
+        "gender":"men",
+        "profession":"student"
+      },
+      {
+        "id":3,
+        "name":"shankar3",
+        "age":22,
+        "country":"Algeria",
+        "gender":"men",
+        "profession":"student"
+      }
     ]
+
   }
