@@ -93,8 +93,9 @@
         "profession":"student"
       }
     ],
-    "masaijob":[
+    "jobDetails":[
         {
+          "id":1,
           "company": "Ellette",
           "postedAt": "2021-03-30",
           "city": "Gangtok",
@@ -106,6 +107,7 @@
           "language": "Java"
         },
         {
+          "id":2,
           "company": "Jinny",
           "postedAt": "2021-09-09",
           "city": "Ludhiana",
